@@ -1,0 +1,2 @@
+# Mobile-Cardiac-Health-Monitor--Detection-and-Prediction-of-Bardycardia
+Mobile ambulatory cardiac monitoring is an important application in cardiac health monitoring and maintenance. Heart rate is one of the important factors in determining several disorders such as stroke. Bradycardia is one very significant problem in several individuals that is a precursor to future heart related problems. Our aim is to anticipate bradycardia with the goal that individuals can be cautioned of up and coming issues and can spare lives.
